@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+    <string name="save">Save</string>
+    <string name="event_name">Event name</string>
+    <string name="remove">Remove</string>
+    <string name="textview">TextView</string>
+    <string name="open">Open</string>
+</resources>
