@@ -63,7 +63,6 @@ public class DayView extends AppCompatActivity {
     private String year;
 
     private String month;
-
     private String day;
 
     private ScrollView scrlView;
