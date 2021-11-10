@@ -53,6 +53,7 @@ public class Statistics extends AppCompatActivity {
         Integer CountPending = 0;
         Integer CountNotOnTime = 0;
 
+        
         try {
             Cursor cursor = sqLiteDatabase.rawQuery(query, null);
             cursor.moveToFirst();
